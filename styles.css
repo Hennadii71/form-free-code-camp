@@ -75,9 +75,9 @@ legend {
 .form-input:hover,
 .form-input:focus,
 .form-textarea:hover,
-.form-textarea:focus{
-    outline: none;
-    border: 2px solid #f10511;
+.form-textarea:focus {
+  outline: none;
+  border: 2px solid #f10511;
 }
 
 .form-button {
